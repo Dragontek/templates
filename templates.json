@@ -6,7 +6,7 @@
     "categories": ["storage"],
     "platform": "linux",
     "logo": "https://cloudinovasi.id/assets/img/logos/minio.png",
-    "image": "minio/minio:latest",
+    "image": "bitnami/parse:latest",
     "ports": [
       "1337/tcp"
     ],
